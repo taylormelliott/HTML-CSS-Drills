@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.row-dimensions {
+  width: 100%;
+  height: 100px;
+}
+
+.grey-box {
+  background-color: #d8d8d89c;
+  padding: 25px;
+  box-sizing: border-box;
+}
+
+.blue-square {
+  width: 50px;
+  height: 50px;
+  background-color: blue;
+}
+
+.white-box {
+  width: 100%;
+  height: 75px;
+  background-color: #ffffff;
+  padding: 25px;
+  box-sizing: border-box;
+}
